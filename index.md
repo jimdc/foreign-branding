@@ -3,21 +3,24 @@ The following are examples of [foreign branding](https://www.sas.upenn.edu/~haro
 
 ### Italian
 
-| Term          | Root word                      | Modifier                 |  Meaning      |
-| ------------- | ---------------------------    | ------------------------ | ------------  |
-| agnello       | < La. *agnus* (cf. En. "yean") | *-ello* (diminuitive)    | lamb          |
-| dolce         | < La. *dulcis* (sweet)         |                          | sweet         |
-| doppio        | < La. *duplus* (*duo*+*plus*)  | *-uplo* (creates tuples) | 2x espresso   |
-| fontana       | < La. *fontānus* < *fōns*      |                          | fountain      |
-| macchiato     | < La. *maculāre* (to stain)    | perf. passive participle | marked        |
-| panna         | < La. *pannus* (cloth)         |                          | cream         |
-| pecorino      | < La. *pecus* (cattle)         | plural neuter form       | sheep (like)  |
-| prosciutto    | *asciutto* < La. *ex*+*sūgere* | perf. passive participle | dry (ham)     |
-| ricotta       | *ri-* + *cuocere* (recooked)   | perf. passive participle | whey cheese   |
-| ristretto     | *restringere* (to restrict)    |                          | concentrated  |
-| salamino      | *salame* < *sale* < La. *sāl*  | *-ino* (diminuitive)     | small sausage |
-| torrefazione  | *torrefare* (to roast)         | *-zione* (cf. En. -tion) | coffee shop   |
-| triplo        | < La. *triplus* (tres+plus)    | *-uplo* (creates tuples) | 2x espresso   |
+| Term          | Root word                           | Modifier                 |  Meaning      |
+| ------------- | ---------------------------------   | ------------------------ | ------------  |
+| affogato      | *affogare* (to drown)               | past participle          | espresso-top  | 
+| agnello       | < La. *agnus* (cf. En. "yean")      | *-ello* (diminuitive)    | lamb          |
+| dolce         | < La. *dulcis* (sweet)              |                          | sweet         |
+| doppio        | < La. *duplus* (*duo* + *plus*)     | *-uplo* (creates tuples) | 2x espresso   |
+| fontana       | < La. *fontānus* < *fōns*           |                          | fountain      |
+| macchiato     | < La. *maculāre* (to stain)         | perf. passive participle | marked        |
+| panna         | < La. *pannus* (cloth)              |                          | cream         |
+| pecorino      | < La. *pecus* (cattle)              | plural neuter form       | sheep (like)  |
+| prosciutto    | *asciutto* < La. *ex* + *sūgere*    | perf. passive participle | dry (ham)     |
+| ricotta       | *ri-* + *cuocere* (recooked)        | perf. passive participle | whey cheese   |
+| ristretto     | *restringere* (to restrict)         |                          | concentrated  |
+| salamino      | *salame* < *sale* < La. *sāl*       | *-ino* (diminuitive)     | small sausage |
+| torrefazione  | *torrefare* (to roast)              | *-zione* (cf. En. -tion) | coffee shop   |
+| trenta        | < La. *trīgintā* < PIE *tri(d)ḱomt* |                          | thirty
+| triplo        | < La. *triplus* (*tres* + *plus*)   | *-uplo* (creates tuples) | 2x espresso   |
+| verismo       | < La. *vērus* < PIE *weh₁*          | *-ismo* (for ideologies) | realism       |
 
 
 ### French
